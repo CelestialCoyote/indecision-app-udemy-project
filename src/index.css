@@ -37,7 +37,7 @@ button:disabled {
 .big-button {
     background: var(--purple);
     border: none;
-    border-bottom: .6rem solid yellow;
+    border-bottom: .6rem solid purple;
     color: white;
     font-weight: bold;
     font-size: var(--l-size);
@@ -60,8 +60,8 @@ button:disabled {
 .button {
     background: var(--purple);
     border: none;
-    border-bottom: .3rem solid yellow;
-    color: white;
+    border-bottom: .3rem solid purple;
+    color: lightgray;
     font-weight: 500;
     padding: var(--s-size);
 }
@@ -87,7 +87,7 @@ button:disabled {
 }
 
 .widget__message {
-    border-bottom: 1px solid yellow;
+    border-bottom: 1px solid purple;
     color: var(--off-white);
     margin: 0;
     padding: var(--l-size);

@@ -1,6 +1,6 @@
 .header {
     background: var(--off-black);
-    color: white;
+    color: lightgray;
     margin-bottom: var(--m-size);
     padding: var(--m-size) 0;
 }

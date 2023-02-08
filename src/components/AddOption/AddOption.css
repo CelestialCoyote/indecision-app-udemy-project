@@ -16,7 +16,7 @@
 .add-option__input {
     background: var(--dark-blue);
     border: none;
-    border-bottom: .3rem solid yellow;
+    border-bottom: .3rem solid purple;
     color: var(--off-white);
     flex-grow: 1;
     margin-right: var(--s-size);
